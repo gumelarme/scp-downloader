@@ -1,0 +1,5 @@
+---
+title: SCP Foundation
+author: Collaborative Communities
+lang: en-US
+---

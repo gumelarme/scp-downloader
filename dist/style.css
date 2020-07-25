@@ -1,0 +1,13 @@
+h1.chapter-cover{
+    margin-top: 50%;
+    text-align: center;
+}
+
+h2{
+    text-align:left;
+    page-break-before: always;
+}
+
+h2.title, h2.author{
+    page-break-before: auto;
+}

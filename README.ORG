@@ -1,0 +1,6 @@
+* SCP Foundation Document Downloader
+* TODO [\]
+	- [ ] SCP-001
+	- [ ] Make test
+	- [ ] Observe other special/unique sections 
+

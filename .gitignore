@@ -1,0 +1,5 @@
+dist/out/**
+dist/series-1/**
+!dist/series-1/000-header.md
+venv/**
+
